@@ -1,0 +1,23 @@
+{
+  "name": "nodebb-plugin-dwnvtr",
+  "version": "0.0.0",
+  "description": "NodeBB plugin to add interesting effects to downvoted posts and/or users with negative reputation (trolls)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianlam/nodebb-plugin-dwnvtr"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "downvoter",
+    "dwnvtr",
+    "troll"
+  ],
+  "author": "Julian Lam <julian@nodebb.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianlam/nodebb-plugin-dwnvtr/issues"
+  },
+  "homepage": "https://github.com/julianlam/nodebb-plugin-dwnvtr"
+}
