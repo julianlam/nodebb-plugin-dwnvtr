@@ -6,6 +6,10 @@ Effects:
 
 1. Each downvote a post receives will cause it to fade 20% (to a minimum of 10% opacity)
 
+## In action...
+
+![Downvotes galore!](http://imgur.com/T6qW2qO)
+
 ## Installation
 
     npm install nodebb-plugin-dwnvtr
