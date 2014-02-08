@@ -8,7 +8,7 @@ Effects:
 
 ## In action...
 
-![Downvotes galore!](http://imgur.com/T6qW2qO)
+![Downvotes galore!](http://i.imgur.com/T6qW2qO.png)
 
 ## Installation
 
