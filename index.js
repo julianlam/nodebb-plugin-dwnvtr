@@ -4,7 +4,7 @@ var	Meta = module.parent.require('./meta'),
 
 Dwnvtr.loadScripts = function(scripts) {
 	return scripts.concat([
-		'plugins/dwnvtr/dwnvtr.js'
+		'assets/dwnvtr.js'
 	]);
 };
 
