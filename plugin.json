@@ -3,11 +3,7 @@
     "name": "Dwnvtr",
     "description": "Add interesting effects to downvoted posts and/or users with negative reputation (trolls)",
     "url": "https://github.com/julianlam/nodebb-plugin-dwnvtr",
-    "library": "./index.js",
-    "staticDirs": {
-        "dwnvtr": "assets"
-    },
-    "hooks": [
-        { "hook": "filter:scripts.get", "method": "loadScripts" }
+    "scripts": [
+        "./assets/dwnvtr.js"
     ]
 }
