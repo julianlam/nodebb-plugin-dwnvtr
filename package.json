@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-dwnvtr",
-  "version": "0.1.0-1",
+  "version": "0.1.0",
   "description": "NodeBB plugin to add interesting effects to downvoted posts and/or users with negative reputation (trolls)",
   "main": "index.js",
   "repository": {
