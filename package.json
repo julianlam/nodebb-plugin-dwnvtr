@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/julianlam/nodebb-plugin-dwnvtr",
   "nbbpm": {
-    "compatibility": "^1.x || ^2.x || ^3.x"
+    "compatibility": "^1.x || ^2.x || ^3.x || ^4.x"
   }
 }
